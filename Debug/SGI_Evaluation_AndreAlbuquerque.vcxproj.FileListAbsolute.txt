@@ -1,0 +1,2 @@
+C:\Users\Dk_ab\source\repos\SGI_Evaluation_AndreAlbuquerque\Debug\SGI_Evaluation_AndreAlbuquerque.exe
+C:\Users\Dk_ab\source\repos\SGI_Evaluation_AndreAlbuquerque\Debug\SGI_Evaluation_AndreAlbuquerque.pdb
